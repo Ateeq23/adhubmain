@@ -1,0 +1,231 @@
+# Copyright (C) 2024 ADHUB Team
+# This file is distributed under the GPL v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ADHUB 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/adhub\n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: WordPress\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4,5;_nc_noop:4,5;_x:1,2c;_ex:1,2c;_nx:4,5;_nx_noop:4,5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"Language-Team: ADHUB Team\n"
+"Language: en_US\n"
+
+#: admin/class-adhub-admin.php
+msgid "ADHUB"
+msgstr ""
+
+#: admin/class-adhub-admin.php
+msgid "Connect your WordPress forms to ADHUB lead management system"
+msgstr ""
+
+#: admin/includes/class-verification-handler.php
+msgid "Invalid security token"
+msgstr ""
+
+#: admin/includes/class-verification-handler.php
+msgid "You do not have permission to perform this action"
+msgstr ""
+
+#: admin/includes/class-verification-handler.php
+msgid "API key is required"
+msgstr ""
+
+#: admin/includes/class-verification-handler.php
+msgid "Authentication successful"
+msgstr ""
+
+#: admin/includes/class-verification-handler.php
+msgid "Authentication failed"
+msgstr ""
+
+#: admin/includes/class-verification-handler.php
+msgid "Disconnected successfully"
+msgstr ""
+
+#: admin/includes/class-forms-handler.php
+msgid "Form enabled"
+msgstr ""
+
+#: admin/includes/class-forms-handler.php
+msgid "Form disabled"
+msgstr ""
+
+#: admin/includes/class-forms-handler.php
+msgid "Failed to update form status"
+msgstr ""
+
+#: admin/includes/class-render-header.php
+msgid "Version"
+msgstr ""
+
+#: admin/includes/class-render-verification-section.php
+msgid "Connect to ADHUB"
+msgstr ""
+
+#: admin/includes/class-render-verification-section.php
+msgid "Enter your ADHUB API key to connect your WordPress site."
+msgstr ""
+
+#: admin/includes/class-render-verification-section.php
+msgid "You can find your API key in your ADHUB account settings."
+msgstr ""
+
+#: admin/includes/class-render-verification-section.php
+msgid "API Key"
+msgstr ""
+
+#: admin/includes/class-render-verification-section.php
+msgid "Enter your API key"
+msgstr ""
+
+#: admin/includes/class-render-verification-section.php
+msgid "Connect"
+msgstr ""
+
+#: admin/includes/class-render-verification-section.php
+msgid "How to get your API key:"
+msgstr ""
+
+#: admin/includes/class-render-verification-section.php
+msgid "Log in to your ADHUB account"
+msgstr ""
+
+#: admin/includes/class-render-verification-section.php
+msgid "Go to Settings > API"
+msgstr ""
+
+#: admin/includes/class-render-verification-section.php
+msgid "Generate a new API key"
+msgstr ""
+
+#: admin/includes/class-render-verification-section.php
+msgid "Copy the API key and paste it above"
+msgstr ""
+
+#: admin/includes/class-render-notification.php
+msgid "Connected to ADHUB"
+msgstr ""
+
+#: admin/includes/class-render-notification.php
+msgid "Disconnect"
+msgstr ""
+
+#: admin/includes/class-render-notification.php
+msgid "Not connected to ADHUB"
+msgstr ""
+
+#: admin/includes/class-render-notification.php
+msgid "Security verification failed."
+msgstr ""
+
+#: admin/includes/class-render-notification.php
+msgid "API key cannot be empty."
+msgstr ""
+
+#: admin/includes/class-render-notification.php
+msgid "Unable to connect to ADHUB API. Please try again."
+msgstr ""
+
+#: admin/includes/class-render-notification.php
+msgid "API key verification failed. Please check your key and try again."
+msgstr ""
+
+#: admin/includes/class-render-notification.php
+msgid "An error occurred."
+msgstr ""
+
+#: admin/includes/class-render-notification.php
+msgid "Successfully connected to ADHUB!"
+msgstr ""
+
+#: admin/includes/class-render-notification.php
+msgid "Operation completed successfully."
+msgstr ""
+
+#: admin/includes/class-render-forms-section.php
+msgid "Manage Forms"
+msgstr ""
+
+#: admin/includes/class-render-forms-section.php
+msgid "Enable or disable forms to track their submissions."
+msgstr ""
+
+#: admin/includes/class-render-forms-section.php
+msgid "Total Forms"
+msgstr ""
+
+#: admin/includes/class-render-forms-section.php
+msgid "Enabled"
+msgstr ""
+
+#: admin/includes/class-render-forms-section.php
+msgid "Plugins Detected"
+msgstr ""
+
+#: admin/includes/class-render-forms-section.php
+msgid "No Form Plugins Detected"
+msgstr ""
+
+#: admin/includes/class-render-forms-section.php
+msgid "Install and activate one or more form plugins to see them here."
+msgstr ""
+
+#: admin/includes/class-render-forms-section.php
+msgid "Browse Form Plugins"
+msgstr ""
+
+#: admin/includes/class-render-forms-section.php
+msgid "No Forms Found"
+msgstr ""
+
+#: admin/includes/class-render-forms-section.php
+msgid "Create some forms in your form plugins to see them here."
+msgstr ""
+
+#: admin/includes/class-render-forms-section.php
+msgid "Enable"
+msgstr ""
+
+#: admin/includes/class-render-forms-section.php
+msgid "Form Name"
+msgstr ""
+
+#: admin/includes/class-render-forms-section.php
+msgid "Shortcode"
+msgstr ""
+
+#: admin/class-adhub-admin.php
+msgid "Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "ADHUB"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://adhubapp.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Connect your WordPress forms to ADHUB lead management system"
+msgstr ""
+
+#. Version of the plugin/theme
+msgid "1.0.1"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ADHUB Team"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://adhubapp.com"
+msgstr ""
